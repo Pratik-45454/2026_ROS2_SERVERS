@@ -4,7 +4,7 @@
   <name>bt_servers</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="meshnap123@gmail.com">messsyyyyy</maintainer>
+  <maintainer email="gyawalip11@gmail.com">pratik</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
