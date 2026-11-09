@@ -1,0 +1,3 @@
+[submodule "robotlibpc"]
+	path = robotlibpc
+	url = git@github.com:Robotics-Club-Pulchowk/robotlibpc.git

@@ -1,1 +1,0 @@
-ROS Servers for robot movement, navigation and debugging

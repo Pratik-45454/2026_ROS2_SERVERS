@@ -4,12 +4,12 @@
 #include "rclcpp_action/rclcpp_action.hpp"
 #include "std_msgs/msg/UInt16MultiArray.hpp"
 #include "nav_msgs/msg/odometry.hpp"
-#include "ar_interfaces/action/movement.hpp"
+#include "ar_interfaces_2026/action/movement.hpp"
 
 class GoToSpearNode : public rclcpp::Node
 {
 public:
-    using Movement = ar_interfaces::action::Movement;
+    using Movement = ar_interfaces_2026::action::Movement;
     using GoalHandleMovement = rclcpp_action::ClientGoalHandle<Movement>;
 
     GoToSpearNode()
